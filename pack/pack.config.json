@@ -1,0 +1,15 @@
+{
+  "packId": "lego-batman-2-he",
+  "gameId": "lego-batman-2",
+  "version": "1.0.0",
+  "title": "LEGO Batman 2: DC Super Heroes – עברית",
+  "authors": ["Tirgumim"],
+  "engine": "ttgames",
+  "requiresAccount": false,
+  "allowUnknownGameVersion": true,
+  "activation": { "mode": "args", "exe": "LEGOBatman2.exe", "args": ["-tirgumim-he"], "via": "steam" },
+  "filesDir": "../work/pack/files",
+  "patches": [
+    { "path": "GAME.DAT", "kind": "append", "appendFile": "../work/pack/GAME.DAT.append", "output": "tirgumim/he/GAME.DAT" }
+  ]
+}

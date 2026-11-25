@@ -1,0 +1,16 @@
+{
+ "ids": [
+  "stuff/text/text.csv|DLC1_GAME_TITLE|All",
+  "stuff/text/text.csv|DLC2_GAME_TITLE|All",
+  "stuff/text/text.csv|LEADERBOARD_GAMERTAG|X360",
+  "stuff/text/text.csv|NETWORK_GAME|X360",
+  "stuff/text/text.csv|NETWORK_GAME|PS3",
+  "stuff/text/text.csv|PCSTRING_FSAA|PC",
+  "stuff/text/text.csv|PC_START|PC",
+  "stuff/text/text.csv|PC_BACK|PC",
+  "stuff/text/text.csv|ONLINE_MARKETPLACE|All",
+  "stuff/text/text.csv|TT|All",
+  "stuff/text/text.csv|MAC_FUNCTION_SHORT|All"
+ ],
+ "why": "platform/service names, key labels, DLC title codes and the TT logo: stay Latin"
+}

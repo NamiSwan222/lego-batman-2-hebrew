@@ -1,0 +1,7 @@
+work/
+*.pak
+*.dll
+__pycache__/
+target/
+tools/bin/
+target/

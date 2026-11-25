@@ -1,0 +1,15 @@
+{
+  "id": "lego-batman-2",
+  "name": "LEGO Batman 2: DC Super Heroes",
+  "nameHe": "לגו באטמן 2: גיבורי-העל של DC",
+  "engine": "ttgames",
+  "aboutHe": "תרגום מלא לעברית: כל הכתוביות של הסרטונים והדיאלוגים, התפריטים, הרמזים, שמות הדמויות והשלבים, ההגדרות והקרדיטים, עם אותיות עבריות בגופן של המשחק וכתיבה מימין לשמאל. העברית פעילה רק כשמפעילים את המשחק מהמשגר; הפעלה מ-Steam נשארת באנגלית.",
+  "detect": {
+    "steamAppId": "213330",
+    "epicAppName": null,
+    "markerFile": "LEGOBatman2.exe",
+    "processNames": ["LEGOBatman2.exe"]
+  },
+  "pack": { "tag": "lego-batman-2-*", "asset": "lego-batman-2-he-*.zip" },
+  "requires": []
+}
